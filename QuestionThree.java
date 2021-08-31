@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ListTrim {
+public class QuestionThree {
     static void listTrim(List<String> strings) {
         for (ListIterator<String> lit = strings.listIterator(); lit.hasNext(); ) {
             lit.set(lit.next().trim());

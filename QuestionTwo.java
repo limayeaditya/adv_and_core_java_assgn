@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class FindDups {
+public class QuestionTwo {
 
     static final Comparator<String> IGNORE_CASE_ORDER
             = new Comparator<String>() {

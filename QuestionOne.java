@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Ran {
+public class QuestionOne {
 
     public static void main(String[] args) {
         
